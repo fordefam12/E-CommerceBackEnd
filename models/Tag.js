@@ -14,7 +14,7 @@ Tag.init(
         primaryKey: true,
         autoIncrement: true,
       },
-      category_name: {
+      Tag_name: {
         type: DataTypes.STRING,
         allowNull: false,
       },
