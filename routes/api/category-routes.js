@@ -8,7 +8,7 @@ router.get("/", (req, res) => {
   Category.findAll({
     include: {
       model: Product,
-      attributes: ['product_name'],
+      attributes: ['productName'],
     },
   })
     .then((categoryData) => res.json(categoryData))
