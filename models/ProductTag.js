@@ -36,5 +36,5 @@ ProductTag.init(
     modelName: 'product_tag',
   }
 );
-
+console.log("this is product tag model ==================>", ProductTag)
 module.exports = ProductTag;
