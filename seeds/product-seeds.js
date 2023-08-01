@@ -31,7 +31,7 @@ const productData = [
     stock: 22,
     category_id: 2,
   },
-  console.log(price[1])
+  // console.log(price[1])
 ];
 
 const seedProducts = () => Product.bulkCreate(productData);
