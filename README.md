@@ -59,3 +59,5 @@ GITHUB: https://github.com/fordefam12/E-CommerceBackEnd
 
 ## Screenrecording
 
+https://www.awesomescreenshot.com/video/19598728?key=f489af18047280a551bf884c7be79620
+<video src="E-CommerceVideo.mp4" controls title="video"></video>
