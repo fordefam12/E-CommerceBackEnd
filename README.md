@@ -37,10 +37,8 @@ keeping track of product inventory by name or tags
 n/a
 
 ## License
-[![License: The_Unlicense](https://img.shields.io/badge/License-The_Unlicense-brightgreen.svg)](https://opensource.org/licenses/The_Unlicense)
+[![License: The_Unlicense](https://img.shields.io/badge/License-The_Unlicense-brown.svg)](https://opensource.org/licenses/The_Unlicense)
 
-
-The_Unlicense
 
 ## badges
 
@@ -55,8 +53,9 @@ n/a
 Any questions about this project please send me a message on *https://github.com/fordefam12 or email me at [fordefam12@gmail.com]
 
 ## URL
-  
+GITHUB: https://github.com/fordefam12/E-CommerceBackEnd
 
+![QR code](<qr-code (2).png>)
 
-## Screenshots
+## Screenrecording
 
